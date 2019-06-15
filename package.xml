@@ -5,5 +5,7 @@
   <maintainer email="seanyen@microsoft.com">Sean Yen</maintainer>
   <license>MIT</license>
 
+  <depend>vcpkg</depend>
+
   <buildtool_depend>catkin</buildtool_depend>
 </package>
